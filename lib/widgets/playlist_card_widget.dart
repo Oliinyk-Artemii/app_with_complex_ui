@@ -258,12 +258,12 @@ class PlaylistCardWidget extends StatelessWidget {
                 color: whiteColor.withOpacity(0.15),
                 shape: BoxShape.circle,
                 boxShadow: [
-                  // BoxShadow(
-                  //   color: blackColor.withOpacity(0.4),
-                  //   spreadRadius: 0.0,
-                  //   blurRadius: 16.0,
-                  //   offset: const Offset(0.0, 8.0),
-                  // ),
+                  BoxShadow(
+                    color: blackColor.withOpacity(0.4),
+                    spreadRadius: 0.0,
+                    blurRadius: 16.0,
+                    offset: const Offset(0.0, 8.0),
+                  ),
                 ],
               ),
               child: ClipOval(
