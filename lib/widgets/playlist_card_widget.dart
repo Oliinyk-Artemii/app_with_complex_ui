@@ -1,8 +1,8 @@
 import 'dart:ui';
 
-import 'package:app_for_softevol/models/playlist/playlist.dart';
-import 'package:app_for_softevol/utils/values/colors.dart';
-import 'package:app_for_softevol/utils/values/gen/assets.gen.dart';
+import 'package:complex_ui/models/playlist/playlist.dart';
+import 'package:complex_ui/utils/values/colors.dart';
+import 'package:complex_ui/utils/values/gen/assets.gen.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 

@@ -1,4 +1,4 @@
-package hash.apps.app_for_softevol
+package hash.apps.complex_ui
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-import 'package:app_for_softevol/utils/navigation/project_router.dart';
+import 'package:complex_ui/utils/navigation/project_router.dart';
 import 'package:flutter/material.dart';
 
 class Navigation {

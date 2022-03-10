@@ -1,10 +1,10 @@
-import 'package:app_for_softevol/pages/error/error_page.dart';
-import 'package:app_for_softevol/utils/locale_utils.dart';
-import 'package:app_for_softevol/utils/navigation/navigation.dart';
-import 'package:app_for_softevol/utils/navigation/project_router.dart';
-import 'package:app_for_softevol/utils/screen_utils.dart';
-import 'package:app_for_softevol/utils/values/colors.dart';
-import 'package:app_for_softevol/utils/values/gen/fonts.gen.dart';
+import 'package:complex_ui/pages/error/error_page.dart';
+import 'package:complex_ui/utils/locale_utils.dart';
+import 'package:complex_ui/utils/navigation/navigation.dart';
+import 'package:complex_ui/utils/navigation/project_router.dart';
+import 'package:complex_ui/utils/screen_utils.dart';
+import 'package:complex_ui/utils/values/colors.dart';
+import 'package:complex_ui/utils/values/gen/fonts.gen.dart';
 import 'package:device_preview/device_preview.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';

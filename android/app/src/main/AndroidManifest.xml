@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="hash.apps.app_for_softevol">
+    package="hash.apps.complex_ui">
    <application
-        android:label="app_for_softevol"
+        android:label="complex_ui"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

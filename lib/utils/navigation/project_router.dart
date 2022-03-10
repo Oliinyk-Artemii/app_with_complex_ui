@@ -1,4 +1,4 @@
-import 'package:app_for_softevol/pages/base/base_page.dart';
+import 'package:complex_ui/pages/base/base_page.dart';
 import 'package:flutter/material.dart';
 
 const _base = '/';
